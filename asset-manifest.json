@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/emiliobenavente.github.io/static/css/main.3a3cb9ad.css",
-    "main.js": "/emiliobenavente.github.io/static/js/main.5d2b4c55.js",
-    "index.html": "/emiliobenavente.github.io/index.html",
-    "main.3a3cb9ad.css.map": "/emiliobenavente.github.io/static/css/main.3a3cb9ad.css.map",
-    "main.5d2b4c55.js.map": "/emiliobenavente.github.io/static/js/main.5d2b4c55.js.map"
+    "main.css": "/EmilioBenavente.github.io/static/css/main.3a3cb9ad.css",
+    "main.js": "/EmilioBenavente.github.io/static/js/main.5d2b4c55.js",
+    "index.html": "/EmilioBenavente.github.io/index.html",
+    "main.3a3cb9ad.css.map": "/EmilioBenavente.github.io/static/css/main.3a3cb9ad.css.map",
+    "main.5d2b4c55.js.map": "/EmilioBenavente.github.io/static/js/main.5d2b4c55.js.map"
   },
   "entrypoints": [
     "static/css/main.3a3cb9ad.css",
